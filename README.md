@@ -18,10 +18,10 @@ This project is a Movie Review Sentiment Analysis System built using Deep Learni
 - Upload a CSV file with any column name
 - Automatically detects the text column
 - Analyzes 100+ reviews at once
-### ~Displays:
-- Total Positive & Negative reviews
-- Percentage distribution
-- Bar chart visualization
+  ### ~Displays:
+  - Total Positive & Negative reviews
+  - Percentage distribution
+  - Bar chart visualization
 
 ## 🧠 Model Details
 - Model Type: SimpleRNN
