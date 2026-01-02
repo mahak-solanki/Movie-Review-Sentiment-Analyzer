@@ -4,8 +4,8 @@
 This project is a Movie Review Sentiment Analysis System built using Deep Learning (SimpleRNN) and Streamlit. It classifies movie reviews as Positive or Negative using a pre-trained model on the IMDB dataset.
 
 ## The application supports:
--✍️ Manual review input
--📂 Bulk CSV file upload with automatic analysis and visualization
+- ✍️ Manual review input
+- 📂 Bulk CSV file upload with automatic analysis and visualization
 
 ## 🚀 Features
 ### ✅ Manual Review Classification
@@ -14,7 +14,7 @@ This project is a Movie Review Sentiment Analysis System built using Deep Learni
 - Sentiment (Positive / Negative)
 - Prediction confidence score
 
-## ✅ CSV File Upload (Bulk Analysis)
+### ✅ CSV File Upload (Bulk Analysis)
 - Upload a CSV file with any column name
 - Automatically detects the text column
 - Analyzes 100+ reviews at once
@@ -31,9 +31,9 @@ This project is a Movie Review Sentiment Analysis System built using Deep Learni
 - Framework: TensorFlow / Keras
 
 ## 🛠️ Tech Stack
-Python 🐍
-TensorFlow / Keras
-NumPy
-Pandas
-Matplotlib
-Streamlit
+- Python 🐍
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Matplotlib
+- Streamlit
